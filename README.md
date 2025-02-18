@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 
 ## 📊 Commit Activity
 
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=vorpalhelix&theme=radical)
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=vorpalhelix&theme=onedark)
 
 ## 🚀 Projects
 
