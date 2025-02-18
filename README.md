@@ -10,25 +10,25 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 
 ## 📈 GitHub Stats
 
-![vorpalhelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=vorpalhelix&show_icons=true&theme=dark)
+![vorpalhelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=vorpalhelix&show_icons=true&theme=dracula)
 
 ## 🥧 Language Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorpalhelix&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorpalhelix&layout=compact&theme=dracula)
 
 ## 📊 Commit Activity
 
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=vorpalhelix&theme=dark)
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=vorpalhelix&theme=dracula)
 
 ## 🚀 Projects
 
 ### Handmade Hero
-[![Handmade Hero ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=handmade-hero&theme=dark)](https://github.com/vorpalhelix/handmade-hero)
+[![Handmade Hero ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=handmade-hero&theme=dracula)](https://github.com/vorpalhelix/handmade-hero)
 - **Description:** Learning game development following Casey Muratori's famous youtube series.
 - **Technologies:** C++
 
 ### LeetCode
-[![LeetCode ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=LeetCode&theme=dark)](https://github.com/vorpalhelix/LeetCode)
+[![LeetCode ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=LeetCode&theme=dracula)](https://github.com/vorpalhelix/LeetCode)
 - **Description:** Some problem solving on leetcode, will be updated as and when possible.
 - **Technologies:** TypeScript, Algorithms
 
