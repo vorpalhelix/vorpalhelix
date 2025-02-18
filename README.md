@@ -43,11 +43,7 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 
 - Contribute to atleast one open-source project
 - Build and deploy a portfolio website
-- Well obviously I need to build websites for including in the portfolio website (preferably using animations, they are cool)
-
-## ⚡ Fun Fact
-
-I love mangoes.
+- Also need to build websites for including in the portfolio website (preferably using animations, they are cool)
 
 ---
 
