@@ -22,13 +22,13 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 
 ## 🚀 Projects
 
-### Project Name 1
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=handmade-hero&theme=radical)](https://github.com/vorpalhelix/project-name-1)
+### Handmade Hero
+[![Handmade Hero ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=handmade-hero&theme=radical)](https://github.com/vorpalhelix/handmade-hero)
 - **Description:** Learning game development following Casey Muratori's famous youtube series.
 - **Technologies:** C++
 
-### Project Name 2
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=LeetCode&theme=radical)](https://github.com/vorpalhelix/project-name-2)
+### LeetCode
+[![LeetCode ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=LeetCode&theme=radical)](https://github.com/vorpalhelix/LeetCode)
 - **Description:** Some problem solving on leetcode, will be updated as and when possible.
 - **Technologies:** TypeScript, Algorithms
 
@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 ## 🌱 Currently Learning
 
 - JavaScript
+- C++
 - Game Development
 
 ## 🎯 Goals for 2025
