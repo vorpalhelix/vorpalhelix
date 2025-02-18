@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hello, I'm vorpalhelix!
 
-<!--
-**vorpalhelix/vorpalhelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm interested in making beautiful web experiences and game development. 
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, TypeScript, C++
+- **Frameworks:** Node.js
+- **Tools:** Git
+
+## 📈 GitHub Stats
+
+![vorpalhelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=vorpalhelix&show_icons=true&theme=radical)
+
+## 🥧 Language Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorpalhelix&layout=pie&theme=radical)
+
+## 📊 Commit Activity
+
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=vorpalhelix&theme=radical)
+
+## 🚀 Projects
+
+### Project Name 1
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=handmade-hero&theme=radical)](https://github.com/vorpalhelix/project-name-1)
+- **Description:** Learning game development following Casey Muratori's famous youtube series.
+- **Technologies:** C++
+
+### Project Name 2
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=LeetCode&theme=radical)](https://github.com/vorpalhelix/project-name-2)
+- **Description:** Some problem solving on leetcode, will be updated as and when possible.
+- **Technologies:** TypeScript, Algorithms
+
+
+## 🌱 Currently Learning
+
+- JavaScript
+- Game Development
+
+## 🎯 Goals for 2025
+
+- Contribute to atleast one open-source project
+- Build and deploy a portfolio website
+- Well obviously I need to build websites for including in the portfolio website (preferably using animations, they are cool)
+
+## ⚡ Fun Fact
+
+I love mangoes.
+
+---
+
+Have a great day, week, month and year 📅 ! 😊
+```` ▋
