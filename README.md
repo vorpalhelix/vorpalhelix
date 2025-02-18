@@ -10,15 +10,15 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 
 ## 📈 GitHub Stats
 
-![vorpalhelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=vorpalhelix&show_icons=true&theme=radical)
+![vorpalhelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=vorpalhelix&show_icons=true&theme=aura)
 
 ## 🥧 Language Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorpalhelix&layout=pie&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorpalhelix&layout=compact&theme=aura)
 
 ## 📊 Commit Activity
 
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=vorpalhelix&theme=radical)
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=vorpalhelix&theme=aura)
 
 ## 🚀 Projects
 
