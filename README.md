@@ -36,8 +36,9 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 ## 🌱 Currently Learning
 
 - JavaScript
+- TypeScript
+- Anime JS
 - Node.js
-- Bun
 
 ## 🎯 Goals for 2025
 
