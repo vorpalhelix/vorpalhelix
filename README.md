@@ -1,10 +1,10 @@
 # 👋 Hello, I'm vorpalhelix!
 
-Welcome to my GitHub profile! I'm interested in making beautiful web experiences and game development. 
+Welcome to my GitHub profile! I'm interested in making beautiful web experiences. 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, C++
+- **Languages:** JavaScript, TypeScript
 - **Frameworks:** Node.js
 - **Tools:** Git
 
@@ -22,10 +22,10 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 
 ## 🚀 Projects
 
-### Handmade Hero
-[![Handmade Hero ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=handmade-hero&theme=dracula)](https://github.com/vorpalhelix/handmade-hero)
-- **Description:** Learning game development following Casey Muratori's famous youtube series.
-- **Technologies:** C++
+### JavaScript 30
+[![JavaScript 30 ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=Javascript-30&theme=dracula)](https://github.com/vorpalhelix/Javascript-30)
+- **Description:** Following the Javascript 30 course to get better. You can find the website [here](https://javascript30.com/).
+- **Technologies:** JavaScript
 
 ### LeetCode
 [![LeetCode ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=LeetCode&theme=dracula)](https://github.com/vorpalhelix/LeetCode)
@@ -36,14 +36,15 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 ## 🌱 Currently Learning
 
 - JavaScript
-- C++
-- Game Development
+- Node.js
+- Bun
 
 ## 🎯 Goals for 2025
 
 - Contribute to atleast one open-source project
 - Build and deploy a portfolio website
 - Also need to build websites for including in the portfolio website (preferably using animations, they are cool)
+- Make an intermediate level JavaScript/ TypeScript Project.
 
 ---
 
