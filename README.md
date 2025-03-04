@@ -37,12 +37,13 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 
 - JavaScript
 - TypeScript
-- Zig (for fun)
+- Data Structures and Algorithms
 - Node.js
 
 ## 🎯 Goals for 2025
 
-- Zig up atleast one project
+- Complete at least 100 LeetCode Solutions
+- Learn the underlying algorithms well
 - Contribute to atleast one open-source project
 - Build and deploy a portfolio website
 - Also need to build websites for including in the portfolio website (preferably using animations, they are cool)
