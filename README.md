@@ -37,11 +37,12 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 
 - JavaScript
 - TypeScript
-- Anime JS
+- Zig (for fun)
 - Node.js
 
 ## 🎯 Goals for 2025
 
+- Zig up atleast one project
 - Contribute to atleast one open-source project
 - Build and deploy a portfolio website
 - Also need to build websites for including in the portfolio website (preferably using animations, they are cool)
