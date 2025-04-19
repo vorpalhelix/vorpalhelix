@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm interested in learning programming better and 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages known:** JavaScript, TypeScript
-- **Languages being learnt:** C,C++, Assembly
+- **Languages known:** JavaScript
+- **Languages being learnt:** C, C++, Assembly
 - **Technologies being learnt**: SDL
-- **Tools:** Git
+- **Tools:** Git, Emacs
 
 ## 📈 GitHub Stats
 
