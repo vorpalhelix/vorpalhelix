@@ -4,10 +4,19 @@ Welcome to my GitHub profile! I'm interested in learning programming better and 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages known:** JavaScript
-- **Languages being learnt:** C, C++, Assembly
-- **Technologies being learnt**: SDL
-- **Tools:** Git, Emacs
+- **Languages known:** <br> <br>
+![Javascript](https://img.shields.io/badge/javascript-FBD5AB?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)
+  
+- **Languages being learnt:** <br> <br>
+![C++](https://img.shields.io/badge/c%2B%2B-royalblue?style=for-the-badge&logo=cplusplus&logoSize=auto)
+![x64-ASM](https://img.shields.io/badge/x64%20ASM-0071C5?style=for-the-badge&logo=intel&logoColor=white&logoSize=auto)
+- **Technologies being learnt:** <br> <br>
+![SDL](https://img.shields.io/badge/SDL-2F539B?style=for-the-badge&logoColor=white&logoSize=auto) 
+- **Tools:** <br> <br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto)
+![Spacemacs](https://img.shields.io/badge/Spacemacs-9266CC?style=for-the-badge&logo=spacemacs&logoColor=white&logoSize=auto)
+- **Current OS:** <br> <br>
+![Debian](https://img.shields.io/badge/Debian-F70D1A?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto)
 
 ## 📈 GitHub Stats
 
