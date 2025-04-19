@@ -1,11 +1,12 @@
 # 👋 Hello, I'm vorpalhelix!
 
-Welcome to my GitHub profile! I'm interested in making beautiful web experiences. 
+Welcome to my GitHub profile! I'm interested in learning programming better and making games. 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** Node.js
+- **Languages known:** JavaScript, TypeScript
+- **Languages being learnt:** C,C++, Assembly
+- **Technologies being learnt**: SDL
 - **Tools:** Git
 
 ## 📈 GitHub Stats
@@ -22,32 +23,34 @@ Welcome to my GitHub profile! I'm interested in making beautiful web experiences
 
 ## 🚀 Projects
 
-### JavaScript 30
-[![JavaScript 30 ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=Javascript-30&theme=dracula)](https://github.com/vorpalhelix/Javascript-30)
-- **Description:** Following the Javascript 30 course to get better. You can find the website [here](https://javascript30.com/).
-- **Technologies:** JavaScript
+### Think like a programmer
+[![Think like a programmer ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=think-like-a-programmer-solutions&theme=dracula)](https://github.com/vorpalhelix/think-like-a-programmer-solutions)
+- **Description:** Solutions of some problems from the book Think like a programmer (ISBN: 9781593274245)
+- **Technologies:** C++
 
 ### LeetCode
 [![LeetCode ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=LeetCode&theme=dracula)](https://github.com/vorpalhelix/LeetCode)
 - **Description:** Some problem solving on leetcode, will be updated as and when possible.
-- **Technologies:** TypeScript, Algorithms
+- **Technologies:** C++, Algorithms
+
+### Landmade-Hero
+[![Landmade-Hero ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=Landmade-Hero&theme=dracula)](https://github.com/vorpalhelix/Landmade-Hero)
+- **Description:** Trying to learn game development by following the series Handmade Hero by Casey Muratori.
+- **Technologies:** C++, SDL
 
 
 ## 🌱 Currently Learning
 
-- JavaScript
-- TypeScript
+- C++
 - Data Structures and Algorithms
-- Node.js
+- Game development
 
 ## 🎯 Goals for 2025
 
 - Complete at least 100 LeetCode Solutions
 - Learn the underlying algorithms well
-- Contribute to atleast one open-source project
-- Build and deploy a portfolio website
-- Also need to build websites for including in the portfolio website (preferably using animations, they are cool)
-- Make an intermediate level JavaScript/ TypeScript Project.
+- Complete 100 episodes of Handmade Hero and follow along with the code
+- Learn the basics of x64 Assembly
 
 ---
 
