@@ -1,6 +1,6 @@
 # 👋 Hello, I'm vorpalhelix!
 
-Welcome to my GitHub profile! I'm interested in learning programming better and making games. 
+Welcome to my GitHub profile! I'm interested in becoming better at C++ and programming in general, and making games. 
 
 ## 🛠️ Technologies & Tools
 
