@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 - Game development
 
 ## 🔊 Always Listening to
-
+ &nbsp;&nbsp;&nbsp;&nbsp; ![Linkin Park](./linkinpark-small.png)
 
 
 ## 🎯 Goals for 2025
