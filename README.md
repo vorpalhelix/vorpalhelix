@@ -69,6 +69,10 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 - Data Structures and Algorithms
 - Game development
 
+## 🔊 Always Listening to
+
+
+
 ## 🎯 Goals for 2025
 
 - Complete at least 100 LeetCode Solutions
