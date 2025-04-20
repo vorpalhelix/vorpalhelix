@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 <p> &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/why%20is%20c%2B%2B%20so%20big%3F%20IDK%2C%20ask%20Bjarne%20Stroustrup.-9146FF?style=for-the-badge&logoColor=white">
 </p>
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="64px" src="https://img.shields.io/badge/c%2B%2B-royalblue?style=for-the-badge&logo=cplusplus&logoColor=white">
+&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height=128px" src="https://img.shields.io/badge/c%2B%2B-royalblue?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/x64%20asm-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 </p>
 
