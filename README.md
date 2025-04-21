@@ -36,6 +36,12 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Debian-F70D1A?style=for-the-badge&logo=debian&logoColor=white">
 </p>
 
+- **Other Stuff:**
+<p align="left">
+&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=121212">
+<img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
+</p>
+
 ## 📈 GitHub Stats
 
 ![vorpalhelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=vorpalhelix&show_icons=true&theme=github_dark)
