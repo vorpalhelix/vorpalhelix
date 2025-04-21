@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 
 - **Languages known:**
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/javascript-DAA520?style=for-the-badge&logo=javascript&logoColor=white">
+&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/javascript-B12B28?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
   
 - **Languages being learnt:**
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
   <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/x64%20asm-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 </p>
 <p> &nbsp; &nbsp; &nbsp; &nbsp; 
-<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Note%3A%20Why%20is%20C%2B%2B%20so%20big%3F%20IDK%2C%20Ask%20Bjarne%20Stroustrup.-A52A2A?style=flat">
+<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Note%3A%20Why%20is%20C%2B%2B%20so%20big%3F%20IDK%2C%20Ask%20Bjarne%20Stroustrup.-02303A?style=flat">
 </p>
 
 - **Technologies being learnt:**
@@ -37,30 +37,30 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 
 ## 📈 GitHub Stats
 
-![vorpalhelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=vorpalhelix&show_icons=true&theme=dracula)
+![vorpalhelix's GitHub stats](https://github-readme-stats.vercel.app/api?username=vorpalhelix&show_icons=true&theme=github_dark)
 
 ## 🥧 Language Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorpalhelix&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorpalhelix&layout=compact&theme=github_dark)
 
 ## 📊 Commit Activity
 
-![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=vorpalhelix&theme=dracula)
+![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=vorpalhelix&theme=github-compact)
 
 ## 🚀 Projects
 
 ### Think like a programmer
-[![Think like a programmer ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=think-like-a-programmer-solutions&theme=dracula)](https://github.com/vorpalhelix/think-like-a-programmer-solutions)
+[![Think like a programmer ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=think-like-a-programmer-solutions&theme=github_dark)](https://github.com/vorpalhelix/think-like-a-programmer-solutions)
 - **Description:** Solutions of some problems from the book Think like a programmer (ISBN: 9781593274245)
 - **Technologies:** C++
 
 ### LeetCode
-[![LeetCode ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=LeetCode&theme=dracula)](https://github.com/vorpalhelix/LeetCode)
+[![LeetCode ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=LeetCode&theme=github_dark)](https://github.com/vorpalhelix/LeetCode)
 - **Description:** Some problem solving on leetcode, will be updated as and when possible.
 - **Technologies:** C++, Algorithms
 
 ### Landmade-Hero
-[![Landmade-Hero ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=Landmade-Hero&theme=dracula)](https://github.com/vorpalhelix/Landmade-Hero)
+[![Landmade-Hero ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=Landmade-Hero&theme=github_dark)](https://github.com/vorpalhelix/Landmade-Hero)
 - **Description:** Trying to learn game development by following the series Handmade Hero by Casey Muratori.
 - **Technologies:** C++, SDL
 
