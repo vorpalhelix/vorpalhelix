@@ -21,13 +21,14 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 
 - **Technologies being learnt:**
 <p align ="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/SDL-2F539B?style=for-the-badge&logoColor=white">
+&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/SDL-2F539B?style=for-the-badge&logoColor=white">  
 </p>
 
-- **Tools:**
+- **Tools being learnt:**
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Spacemacs-9266CC?style=for-the-badge&logo=spacemacs&logoColor=white">
+  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake">
 </p>
 
 - **Current OS:** 
