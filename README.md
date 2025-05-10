@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 
 - **Technologies being learnt:**
 <p align ="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/SDL-2F539B?style=for-the-badge&logoColor=white">  
+&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/SDL-2F539B?style=for-the-badge&logoColor=white">
+  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/OpenGL-00B5E2?style=for-the-badge&logo=opengl&logoColor=white">
 </p>
 
 - **Tools being learnt:**
