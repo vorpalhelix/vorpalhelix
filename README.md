@@ -86,5 +86,5 @@ Welcome to my GitHub profile! I'm interested in becoming better at JavaScript, A
 
 ---
 
-### Have a great day☀️ , week , month and year 📅 ! 😊
+### Peace cannot be kept by force; it can only be achieved by understanding. 
 ---
