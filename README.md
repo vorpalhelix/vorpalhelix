@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm interested in becoming better at JavaScript, A
 
 - **Technologies being learnt:**
 <p align ="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/SDL-2F539B?style=for-the-badge&logoColor=white">
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
-  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/ReactJS-0F8866?style=for-the-badge&logo=React&logoColor=white">
 
   <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=Lit&logoColor=white">
 
