@@ -10,31 +10,35 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 </p>
   
 - **Languages being learnt:**
+  
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
-
-<p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="128px" src="https://img.shields.io/badge/c%2B%2B-royalblue?style=for-the-badge&logo=cplusplus&logoColor=white"> 
-  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-
-  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/x64%20asm-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+<img alt="Static Badge" height="32px" src="https://img.shields.io/badge/x64%20asm-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  
 </p>
-<p> &nbsp; &nbsp; &nbsp; &nbsp; 
-<img alt="Static Badge" height="24px" src="https://img.shields.io/badge/Note%3A%20Why%20is%20C%2B%2B%20so%20big%3F%20IDK%2C%20Ask%20Bjarne%20Stroustrup.-02303A?style=flat">
-</p>
+
 
 - **Technologies being learnt:**
 <p align ="left">
 &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/SDL-2F539B?style=for-the-badge&logoColor=white">
-  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/OpenGL-00B5E2?style=for-the-badge&logo=opengl&logoColor=white">
+
+  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+
+  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=Lit&logoColor=white">
+
+
+  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white">
+
+
 </p>
 
 - **Tools being learnt:**
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Spacemacs-9266CC?style=for-the-badge&logo=spacemacs&logoColor=white">
-  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake">
+
+  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
+  
 </p>
 
 - **Current OS:** 
@@ -42,11 +46,6 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Debian-F70D1A?style=for-the-badge&logo=debian&logoColor=white">
 </p>
 
-- **Other Stuff:**
-<p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=121212">
-<img alt="Static Badge" height="32px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
-</p>
 
 ## 📈 GitHub Stats
 
@@ -67,32 +66,22 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 - **Description:** Solutions of some problems from the book Think like a programmer (ISBN: 9781593274245)
 - **Technologies:** C++
 
-### LeetCode
-[![LeetCode ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=LeetCode&theme=github_dark)](https://github.com/vorpalhelix/LeetCode)
-- **Description:** Some problem solving on leetcode, will be updated as and when possible.
-- **Technologies:** C++, Algorithms
 
-### Landmade-Hero
-[![Landmade-Hero ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=Landmade-Hero&theme=github_dark)](https://github.com/vorpalhelix/Landmade-Hero)
-- **Description:** Trying to learn game development by following the series Handmade Hero by Casey Muratori.
-- **Technologies:** C++, SDL
 
 
 ## 🌱 Currently Learning
 
-- C++
+- JavaScript
+- React JS
 - Data Structures and Algorithms
-- Game development
 
-## 🔊 Always Listening to
- &nbsp;&nbsp;&nbsp;&nbsp; ![Linkin Park](./linkinpark-small.png)
 
 
 ## 🎯 Goals for 2025
 
-- Complete at least 100 LeetCode Solutions
+- Make a fullstack project
+- Complete at least 50 LeetCode Solutions
 - Learn the underlying algorithms well
-- Complete 100 episodes of Handmade Hero and follow along with the code
 - Learn the basics of x64 Assembly
 
 ---
