@@ -10,9 +10,13 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 </p>
   
 - **Languages being learnt:**
+<p align="left">
+&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript?style=for-the-badge&logo=TypeScript&logoColor=white">
 
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height=128px" src="https://img.shields.io/badge/c%2B%2B-royalblue?style=for-the-badge&logo=cplusplus&logoColor=white">
+&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height=128px" src="https://img.shields.io/badge/c%2B%2B-royalblue?style=for-the-badge&logo=cplusplus&logoColor=white"> 
+  <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+
   <img alt="Static Badge" height="32px" src="https://img.shields.io/badge/x64%20asm-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 </p>
 <p> &nbsp; &nbsp; &nbsp; &nbsp; 
