@@ -82,12 +82,12 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 
 ## 🎯 Goals for 2025
 
-- Complete at least 100 LeetCode Solutions
+- Complete at least 30 LeetCode Solutions
 - Learn the underlying algorithms well
-- Complete 100 episodes of Handmade Hero and follow along with the code
+- Complete 30 episodes of Handmade Hero and follow along with the code
 - Learn the basics of x64 Assembly
 
 ---
 
-### Have a great day☀️ , week , month and year 📅 ! 😊
+### Peace cannot be kept by force; it can only be achieved by understanding.
 ---
