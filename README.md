@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 
 - **Other Stuff:**
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=121212">
+&nbsp; &nbsp; &nbsp; &nbsp; 
 <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
 </p>
 
@@ -61,10 +61,6 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 - **Description:** Solutions of some problems from the book Think like a programmer (ISBN: 9781594874245)
 - **Technologies:** C++
 
-### LeetCode
-[![LeetCode ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=LeetCode&theme=github_dark)](https://github.com/vorpalhelix/LeetCode)
-- **Description:** Some problem solving on leetcode, will be updated as and when possible.
-- **Technologies:** C++, Algorithms
 
 ### Landmade-Hero
 [![Landmade-Hero ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vorpalhelix&repo=Landmade-Hero&theme=github_dark)](https://github.com/vorpalhelix/Landmade-Hero)
