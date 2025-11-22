@@ -1,6 +1,6 @@
 # 👋 Hello, I'm vorpalhelix!
 
-Welcome to my GitHub profile! I'm interested in becoming better at C++ and programming in general, and making games.
+Welcome to my GitHub profile! I'm interested in getting better at programming and making games. 
 
 ## 🛠️ Technologies & Tools
 
@@ -14,10 +14,7 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; 
   
-  <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/C%2B%2B-0666b0?style=for-the-badge&logo=cpp&logoColor=white">
-
-
-  <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/X64-%230F8866?style=for-the-badge&logo=amd&logoColor=white">
+  <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/Rust-7a432e?style=for-the-badge&logo=rust&logoColor=white">
 
 </p>
 
@@ -68,13 +65,14 @@ Welcome to my GitHub profile! I'm interested in becoming better at C++ and progr
 
 ## 🌱 Currently Learning
 
-- C++
+- Rust
 - Game development
 
 
 ## 🎯 Goals for 2025
 
+- Read the Rust programming language book.
+- Practice some Rust Katas.
 - Learn the basics of game development.
-- Make a simple demo game.
 
 ---
