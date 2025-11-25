@@ -12,16 +12,19 @@ Welcome to my GitHub profile! I'm interested in getting better at programming an
 - **Languages being learnt:**
 
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; 
-  
-  <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/Rust-7a432e?style=for-the-badge&logo=rust&logoColor=white">
+&nbsp; &nbsp; &nbsp; &nbsp;
 
+<img alt="Static Badge" height="48px" src="https://img.shields.io/badge/C%23-175DDC?style=for-the-badge&logo=sharp&logoColor=white">  
+
+<img alt="Static Badge" height="48px" src="https://img.shields.io/badge/Rust-7a432e?style=for-the-badge&logo=rust&logoColor=white">
 </p>
 
 - **Languages interested in:**
 
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; 
+
+
 
 <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/GLSL-5C8D00?style=for-the-badge&logo=nvidia&logoColor=white">
 
