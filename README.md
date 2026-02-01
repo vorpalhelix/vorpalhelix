@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm interested in getting better at programming an
 
 <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/C%23-175DDC?style=for-the-badge&logo=sharp&logoColor=white">  
 
-<img alt="Static Badge" height="48px" src="https://img.shields.io/badge/Rust-7a432e?style=for-the-badge&logo=rust&logoColor=white">
 </p>
 
 - **Languages interested in:**
@@ -34,7 +33,8 @@ Welcome to my GitHub profile! I'm interested in getting better at programming an
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; 
   
-  <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/Godot-338F91?style=for-the-badge&logo=godotengine&logoColor=white">
+  <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/SolidJS-0f7987?style=for-the-badge&logo=solid&logoColor=white">
+  <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/ElectronJS-4285F4?style=for-the-badge&logo=electron&logoColor=white">
   <img alt="Static Badge" height="48px" src="https://img.shields.io/badge/Neovim-684084?style=for-the-badge&logo=neovim&logoColor=white">
 
   
@@ -68,6 +68,7 @@ Welcome to my GitHub profile! I'm interested in getting better at programming an
 
 ## 🌱 Currently Learning
 
+- SolidJS
 - Rust
 - Game development
 
