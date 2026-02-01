@@ -14,7 +14,9 @@ Welcome to my GitHub profile! I'm interested in getting better at programming an
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-<img alt="Static Badge" height="48px" src="https://img.shields.io/badge/C%23-175DDC?style=for-the-badge&logo=sharp&logoColor=white">  
+<img alt="Static Badge" height="48px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+
 
 </p>
 
@@ -23,9 +25,7 @@ Welcome to my GitHub profile! I'm interested in getting better at programming an
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; 
 
-
-
-<img alt="Static Badge" height="48px" src="https://img.shields.io/badge/GLSL-5C8D00?style=for-the-badge&logo=nvidia&logoColor=white">
+<img alt="Static Badge" height="48px" src="https://img.shields.io/badge/C%23-175DDC?style=for-the-badge&logo=sharp&logoColor=white">  
 
 </p>
 
@@ -69,14 +69,12 @@ Welcome to my GitHub profile! I'm interested in getting better at programming an
 ## 🌱 Currently Learning
 
 - SolidJS
-- Rust
-- Game development
+- Electron JS
 
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
-- Read the Rust programming language book.
-- Practice some Rust Katas.
-- Learn the basics of game development.
+- Make some SolidJS apps.
+- Practice some JS Katas.
 
 ---
